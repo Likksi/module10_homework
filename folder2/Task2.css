@@ -1,0 +1,10 @@
+#screenSizeButton {
+  border: none;
+  cursor: pointer; 
+  margin: 5px 10px;
+  padding: 10px 15px;
+  border-radius: 8px;
+  font-size: 18px;
+  color: white;
+  background: #315efb;
+}
