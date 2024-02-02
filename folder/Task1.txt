@@ -1,0 +1,6 @@
+Задание 1
+
+Сверстайте кнопку, которая будет содержать в себе icon 01 (как в примере в последнем видео). При клике на кнопку иконка должна меняться на icon 02. Повторный клик меняет иконку обратно.
+
+icon 01: https://icons.getbootstrap.com/icons/arrow-down-left-circle/
+icon 02: https://icons.getbootstrap.com/icons/arrow-down-left-circle-fill/
